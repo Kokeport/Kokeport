@@ -1,7 +1,7 @@
 <h1> Hi there I am Arturo Garcia 👋</h1>
 
 
-<h2>Coding in💻</h2>
+<h2>💻Coding in</h2>
 
 </div>
 <div style="display: inline_block"><br>

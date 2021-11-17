@@ -1,7 +1,7 @@
 <h1> Hi there I am Arturo Garcia 👋</h1>
 
 
-<h2>💻Coding in</h2>
+<h2>💻Coding in / My Technologies</h2>
 
 </div>
 <div style="display: inline_block"><br>
@@ -11,6 +11,8 @@
   <img align="center" alt="Koke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Koke-DEB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
   <img align="center" alt="Koke-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Koke-MYSQL" height="30" width="40" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+  
   <img align="right" alt="koke-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/zDSpFSmj/download20211100175822.png">
 </div>
 

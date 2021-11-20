@@ -5,13 +5,13 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" ><img align="center" alt="Koke-Js" height="30" width="40"            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <img align="center" alt="Koke-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Koke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Koke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Koke-DEB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-  <img align="center" alt="Koke-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Koke-MYSQL" height="30" width="40" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" ><img align="center" alt="Koke-Js" height="30" width="40"            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://es.reactjs.org/" ><img align="center" alt="Koke-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://www.w3schools.com/html/" ><img align="center" alt="Koke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+ <a href="https://www.w3schools.com/css/default.asp" ><img align="center" alt="Koke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+ <a href="https://www.debian.org/index.es.html" ><img align="center" alt="Koke-DEB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"></a>
+ <a href="https://www.mysql.com/" ><img align="center" alt="Koke-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+  <a href="#" ><img align="center" alt="Koke-Github" height="30" width="40" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"></a>
   
   <img align="right" alt="koke-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/zDSpFSmj/download20211100175822.png">
 </div>
